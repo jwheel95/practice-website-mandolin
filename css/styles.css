@@ -3,7 +3,7 @@ body {
 }
 
 .nav-bar {
-    background-color: #55362c;
+    background-color: #a81e00;
     width: 100%;
     height: 60px;
     position: fixed;
@@ -97,7 +97,7 @@ body {
 }
 
 .footer {
-    background-color:#55362c;
+    background-color:#a81e00;
     width: 100%;
     height: 100px;
 }
